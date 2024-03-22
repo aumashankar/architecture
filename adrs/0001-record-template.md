@@ -33,3 +33,14 @@ Chosen option: "[option]", because [justification. e.g., only option, which meet
 
 - [e.g., compromising quality attribute, follow-up decisions required, …]
 - …
+
+Look out for below while detailing consequences
+
+Maintainability / Extensibility / Configurability
+Scalability / Testability
+Interoperability
+Usability / User experience
+Performance / Security
+Reliability - The ability of the system to operate correctly and consistently over time. This involves fault tolerance, redundancy, and the ability to recover from failures.
+Observability -  The ability to monitor, log, and trace system activity and performance, enabling the detection and diagnosis of issues.
+Portability - The ease with which the system or components can be moved to different environments or platforms. This includes considerations for vendor lock-in, cross-platform support, and the use of open standards.
