@@ -1,4 +1,4 @@
-# Project Name: Architectural Documentation and Decision Making
+# Architectural Documentation and Decision Making
 
 ## Overview
 
@@ -13,7 +13,7 @@ To get started with this project, clone this repository and ensure you have the 
 
 ADRs are used to document architectural decisions made while developing this project. They provide a historical context for why decisions were made, helping new team members understand the evolution of the project's architecture.
 
-ADRs are created and maintained as described here: [text](https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+ADRs are created and maintained as described here: [https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions](https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 
 ## Viewing ADRs
 ADRs are located in the adrs/ directory. You can view them by navigating to this directory and opening the markdown files.
