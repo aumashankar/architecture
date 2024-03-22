@@ -27,8 +27,8 @@ Documentation is manually maintained but informed by the structured architecture
 
 ## Diagrams with Structurizr
 We use Structurizr to generate architecture diagrams that visually represent our system's components and their interactions.
-[https://docs.structurizr.com/dsl](https://docs.structurizr.com/dsl)
-[https://github.com/structurizr/cli](https://github.com/structurizr/cli)
+- [https://docs.structurizr.com/dsl](https://docs.structurizr.com/dsl)
+- [https://github.com/structurizr/cli](https://github.com/structurizr/cli)
 
 ## Generating Diagrams
 To generate diagrams, run the generate-diagrams.sh script located in the structurizr/ directory. This script requires Structurizr CLI to be installed and properly configured.
